@@ -16,7 +16,6 @@ public class LinkedListTest
     @Test
     public void checkingthenodes()
     {
-
         LinkedList<Integer> Firstnode=new LinkedList<>(56);
         LinkedList<Integer> secondnode=new LinkedList<>(30);
         LinkedList<Integer> thirdnode=new LinkedList<>(70);
