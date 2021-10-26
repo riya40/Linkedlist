@@ -6,8 +6,6 @@ package linkedlist;
  */
 public class LinkedList<K>
 {
-
-
     private LinkedList next;
     private K key;
 
